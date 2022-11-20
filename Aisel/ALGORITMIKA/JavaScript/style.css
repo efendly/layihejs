@@ -1,0 +1,16 @@
+div{
+    width:250px;
+    height:200px;
+    border:2px solid red;
+    overflow: auto;
+}
+.input{
+    background-color: azure;
+}
+.input1{
+    background-color: aquamarine;
+}
+.input2{
+    background-color: yellowgreen;
+}
+
